@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anshita Gupta</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.d4b0936f300957f9e96b6dcb40041c28?rik=TMF69je6zBrb4w&riu=http%3a%2f%2fwww.cartoonbucket.com%2fwp-content%2fuploads%2f2015%2f07%2fAnime-Typing-In-Computer.gif&ehk=%2fuUhMW1M7LTRIvXg8OWTKCR1n9IoWkNK1igokCXhBkE%3d&risl=&pid=ImgRaw&r=0" />
+<img align="right" alt="Coding" width="300" src="https://th.bing.com/th/id/R.d4b0936f300957f9e96b6dcb40041c28?rik=TMF69je6zBrb4w&riu=http%3a%2f%2fwww.cartoonbucket.com%2fwp-content%2fuploads%2f2015%2f07%2fAnime-Typing-In-Computer.gif&ehk=%2fuUhMW1M7LTRIvXg8OWTKCR1n9IoWkNK1igokCXhBkE%3d&risl=&pid=ImgRaw&r=0" />
 
 - 🔭 I’m currently working on Data Structures and Algorithm
 
