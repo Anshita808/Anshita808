@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **anshitagupta783@gmail.com**
 
-- 👨‍💻 All of my projects are available at [anshita808.github.io](anshita808.github.io)
+- 👨‍💻 All of my projects are available at [https://anshita808.github.io/](https://anshita808.github.io/)
 
 - ⚡ Fun fact **I think I am funny**
 
