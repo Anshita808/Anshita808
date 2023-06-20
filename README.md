@@ -13,7 +13,9 @@
 
 - 📫 How to reach me **anshitagupta783@gmail.com**
 
-- 👨‍💻 All of my projects are available at [https://anshita808.github.io/](https://anshita808.github.io/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshita-gupta-1807b224b/)
+
+ My Portfolio : [Anshita808.github.io](https://Anshita808.github.io/)
 
 - ⚡ Fun fact **I think I am funny**
 
